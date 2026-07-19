@@ -276,5 +276,5 @@ Banking-Risk-Portfolio-Analysis/
 │   └──risk_summary_dashboard.png
 │ 
 └── 📂 documentation/
-    ├──Project_report.pdf
-    └── banking_risk_portfolion_analysis.pptx
+    └──Project_report.pdf
+    
